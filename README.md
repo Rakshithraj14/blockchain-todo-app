@@ -122,11 +122,3 @@ For support and questions:
 - Check the documentation
 - Review the smart contract code
 
-## Roadmap
-
-- [ ] Real smart contract integration
-- [ ] Task categories and tags
-- [ ] Task sharing between users
-- [ ] Mobile app
-- [ ] Multiple blockchain support
-- [ ] Task history and analytics
