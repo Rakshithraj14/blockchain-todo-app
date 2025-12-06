@@ -122,3 +122,7 @@ For support and questions:
 - Check the documentation
 - Review the smart contract code
 
+---
+
+Built with ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
+
